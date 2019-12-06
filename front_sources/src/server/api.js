@@ -1,1 +1,0 @@
-import { server, upload } from './backend'

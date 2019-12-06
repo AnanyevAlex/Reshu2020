@@ -1,1 +1,0 @@
-export const toFloor = value => `${value} Этаж`
